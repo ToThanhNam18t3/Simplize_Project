@@ -20,3 +20,7 @@ img {
 body {
   background-image: linear-gradient(to top, #2c2742, #18191a);
 }
+
+strong {
+  color: white;
+}
